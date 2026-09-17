@@ -48,7 +48,7 @@ This repository contains comprehensive implementations and experiments in deep l
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/A-A7med-i/DL.git
+git clone https://github.com/A-Ahmed-i/DL.git
 cd deep_learning_repo
 ```
 
